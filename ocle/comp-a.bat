@@ -1,0 +1,1 @@
+tcc -IC:/TURBOC3/INCLUDE -LC:/TURBOC3/LIB mac.c

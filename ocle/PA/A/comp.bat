@@ -1,0 +1,1 @@
+tcc -IC:/TURBOC3/INCLUDE -ms -f- P10-2.c ManCad.asm

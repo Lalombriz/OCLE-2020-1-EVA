@@ -1,0 +1,1 @@
+tcc -IC:/TURBOC3/INCLUDE -ms -f- p10-3.c ConjCo.asm
